@@ -95,7 +95,7 @@ PdfProcessor/
 1. Clone the repository:
 
 ```
-git clone [[https://github.com/yourusername/PDF-Tool-Windows-Desktop-Application.git](https://github.com/sabbiraliseikh892/PDF-Tool-Windows-Desktop-Application)](https://github.com/sabbiraliseikh892/PDF-Tool-Windows-Desktop-Application)
+git clone https://github.com/sabbiraliseikh892/PDF-Tool-Windows-Desktop-Application
 ```
 
 2. Open `PdfProcessor.sln` in Visual Studio
