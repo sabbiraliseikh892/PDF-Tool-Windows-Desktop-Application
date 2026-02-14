@@ -85,11 +85,8 @@ PdfProcessor/
 ## 🖼 Application Screenshots
 
 ### Main Dashboard
-(Add your screenshot here)
 
-```
 ![Main Screen](screenshots/mainscreen.jpg)
-```
 
 
 
